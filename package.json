@@ -1,0 +1,23 @@
+{
+  "name": "twitter-comment-fetcher",
+  "version": "1.0.0",
+  "description": "Fetches comments given a twitter handler and the number of comments desired from most recent comments to oldest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyprstack/twitter-comment-fetcher.git"
+  },
+  "author": "{\"name\": \"Mario Mendes\", \"email\": \"mario@ckx.dev\"}",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyprstack/twitter-comment-fetcher/issues"
+  },
+  "homepage": "https://github.com/hyprstack/twitter-comment-fetcher#readme",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "twitter": "^1.7.1"
+  }
+}

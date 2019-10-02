@@ -3,7 +3,7 @@
  * Created by mario (https://github.com/hyprstack) on 01/10/2019.
  */
 const Twitter = require('twitter');
-const {isNil, fromPairs} = require('lodash');
+const {isNil} = require('lodash');
 const url = require('url');
 const querystring = require('querystring');
 const {
